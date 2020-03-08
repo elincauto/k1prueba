@@ -51,7 +51,7 @@ for letra in cadena:
          print("{}-{}".format(letra,morse[letra]))
 
     else:
-        print('')
+        print('No encontrado')
 
 
 
